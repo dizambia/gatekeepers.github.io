@@ -1,0 +1,12 @@
+3_htm_files
+3.htm
+3_htm_files/15.png
+3_htm_files/16.png
+3_htm_files/17.png
+3_htm_files/18.png
+3_htm_files/19.png
+3_htm_files/20.png
+3_htm_files/21.png
+3_htm_files/XaraWDGeneratedHTMLfont1.woff
+3_htm_files/XaraWDEmbeddedHTMLfont1.eot
+3_htm_files/XaraWDGeneratedHTMLfont2.woff
