@@ -62,7 +62,7 @@ body {text-align:center;}
 @media screen, handheld {
 .xr_app {position: absolute;}
 .xr_apb {display:block; position:absolute;}
-.xr_page0 {top:0px; width:420px;}
+.xr_page0 {top:0px; width:600px;}
 }
 @media print {
  .xr_app {position:relative; top:0px; page-break-after: always; display: block !important; visibility: visible !important;}
