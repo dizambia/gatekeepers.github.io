@@ -1,6 +1,0 @@
-7_htm_files
-7.htm
-7_htm_files/44.png
-7_htm_files/45.png
-7_htm_files/XaraWDGeneratedHTMLfont1.woff
-7_htm_files/XaraWDEmbeddedHTMLfont1.eot

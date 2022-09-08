@@ -62,7 +62,14 @@ body {text-align:center;}
 @media screen, handheld {
 .xr_app {position: absolute;}
 .xr_apb {display:block; position:absolute;}
-.xr_page0 {top:0px; width:500px;}
+.xr_page0 {top:0px; width:420px;}
+.xr_page1 {top:928px; width:420px;}
+.xr_page2 {top:1856px; width:420px;}
+.xr_page3 {top:2784px; width:420px;}
+.xr_page4 {top:3712px; width:420px;}
+.xr_page5 {top:4640px; width:420px;}
+.xr_page6 {top:5568px; width:420px;}
+.xr_page7 {top:6496px; width:420px;}
 }
 @media print {
  .xr_app {position:relative; top:0px; page-break-after: always; display: block !important; visibility: visible !important;}
