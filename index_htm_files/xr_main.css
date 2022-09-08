@@ -1,10 +1,10 @@
 /* Site settings */
 body {background-color:#ffffff;margin:0px;font-family:Arial,sans-serif;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;text-rendering:optimizeLegibility;font-feature-settings:'kern', 'liga' 0, 'clig' 0, 'calt' 0;color:#000000;letter-spacing:0em;-webkit-print-color-adjust:exact;}
 a {text-decoration:underline;}
-a:link {color:#0000EE; cursor:pointer;}
-a:visited {color:#561A8B;}
-a:hover {color:#0000EE;}
-a * {color:#0000EE;text-decoration:underline;}
+a:link {color:#FFFFFF; cursor:pointer;}
+a:visited {color:#E2C2FF;}
+a:hover {color:#FFCE00;}
+a * {color:#FFFFFF;text-decoration:underline;}
 sup {font-size:0.5em; vertical-align: 0.66em;}
 sub {font-size:0.5em; vertical-align: -0.1em;}
 .xr_tl {position: absolute; white-space: pre; unicode-bidi:bidi-override;}
